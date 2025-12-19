@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="icon.svg" width="128" height="128" alt="Blender Addon Template Icon">
+</p>
+
 # 🏗️ Blender Addon Template
 
 Profesionální šablona pro vývoj Blender addonů (4.5+) s čistou architekturou a automatizovaným testováním.

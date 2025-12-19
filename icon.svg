@@ -1,0 +1,14 @@
+<svg width="128" height="128" viewBox="0 0 128 128" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <rect width="128" height="128" rx="24" fill="#232323"/>
+    <!-- Box / Template Shape -->
+    <path d="M40 35H88C90.7614 35 93 37.2386 93 40V88C93 90.7614 90.7614 93 88 93H40C37.2386 93 35 90.7614 35 88V40C35 37.2386 37.2386 35 40 35Z" stroke="#E87D0D" stroke-width="6" stroke-linejoin="round"/>
+    <!-- Lego / Plug / Addon part -->
+    <rect x="54" y="28" width="20" height="12" rx="2" fill="#E87D0D"/>
+    <!-- Inner details (lines representing code/structure) -->
+    <path d="M50 55H78" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round"/>
+    <path d="M50 67H70" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round"/>
+    <path d="M50 79H78" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round"/>
+    <!-- Blender orange accent circle -->
+    <circle cx="95" cy="33" r="10" fill="#E87D0D"/>
+    <circle cx="95" cy="33" r="5" fill="#232323"/>
+</svg>
