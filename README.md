@@ -41,4 +41,4 @@ python3 tools/build_zip.py
 Výsledek najdete v adresáři `dist/`.
 
 ## 📜 Licence
-MIT
+GNU GPL v3

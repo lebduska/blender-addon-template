@@ -96,7 +96,7 @@ blender-addon-template/
 ├── pytest.ini               # Konfigurace testů
 ├── README.md
 ├── TESTING.md
-└── LICENSE
+└── LICENSE (GPL v3)
 ```
 
 ---
