@@ -1,0 +1,17 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "my_addon"
+version = "0.1.0"
+description = "Blender Addon Template"
+authors = [
+    {name = "Jiří Lebduška"},
+]
+dependencies = []
+requires-python = ">=3.11"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["addon"]
